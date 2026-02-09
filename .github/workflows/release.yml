@@ -28,8 +28,6 @@ jobs:
         with:
           files: |
             vproxy-mac.zip
-            proxy.sh
-            tun2socks
           generate_release_notes: true
           draft: false
           prerelease: false
